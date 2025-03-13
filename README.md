@@ -1,13 +1,4 @@
-# Gesture 
-
-This project scrapes a web page based on a given URL, extracts its main sections, and generates relevant questions and answers using an AI model. The results are displayed in a structured `index.html` file, along with an interactive chatbot for further queries.
-
-## Features
-- Extracts structured content from a web page.
-- Generates questions and answers from the extracted content using an AI model.
-- Displays results in a user-friendly `index.html` page.
-- Provides an interactive chatbot for querying all extracted content.
-- Progress bar for tracking the scraping and processing status.
+# Gesture Detection 
 
 ## Technologies Used
 - **Python**: Core programming language.
